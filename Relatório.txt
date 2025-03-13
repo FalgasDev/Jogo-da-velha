@@ -1,0 +1,54 @@
+1) 
+   - Fábio Luiz Garrote Ramaldes
+   - Kaio Nogueira Mungo
+   - Bruna Bispo Andreata
+   - Luiz Henrique Calazans
+
+2) Equipe Cão
+
+3) Jogo da velha
+
+4) Aprender os comandos do Git e como mexer no GitHub
+
+5)
+   O Jogo da Velha é um jogo de tabuleiro simples, jogado entre duas pessoas. 
+   O objetivo do jogo é formar uma linha com três símbolos iguais (um jogador usa "X" e o outro usa "O") em uma grade de 3x3, seja na horizontal, vertical ou diagonal.
+
+   Regras básicas:
+
+   1- O tabuleiro é composto por uma matriz de 3 linhas e 3 colunas, totalizando 9 quadrados.
+   2- Os jogadores se alternam, colocando o seu símbolo (X ou O) em um dos quadrados vazios.
+   3- O primeiro jogador a conseguir alinhar três símbolos iguais, seja na horizontal, vertical ou diagonal, vence.
+   4- Se todos os quadrados forem preenchidos e nenhum jogador conseguir alinhar três símbolos, o jogo termina em empate.
+
+   Estratégia:
+
+   Para ganhar, é importante tentar bloquear o adversário de formar uma linha de três símbolos e, ao mesmo tempo, procurar oportunidades de formar a sua própria linha.
+   O jogo envolve planejamento e antecipação dos movimentos do adversário, buscando sempre criar várias possibilidades de vitória.
+   O Jogo da Velha é conhecido por sua simplicidade e por ser uma ótima maneira de ensinar conceitos básicos de estratégia, como a importância do planejamento e da antecipação.
+
+6) 
+   - Visual Studio Code
+   - Git
+   - GitHub
+
+7)
+   - git init
+   - criamos o layout do jogo da velha em um arquivo .txt
+   - git add .
+   - git commit -m "primeira jogada"
+   - git branch -M main
+   - git remote https://github.com/FalgasDev/Jogo-da-velha
+   - git push -u origin main
+   - Kaio começou o primeiro jogo contra o Fábio
+     - Kaio faz a primeira jogada e da o push
+     - Fábio da o pull, faz a próxima jogada e da o push
+     - E o fluxo foi assim até o Kaio dar o último push e o jogo dar velha
+   - Fábio começou o segundo jogo contra a Bruna
+     - Fábio faz a primeira jogada e da o push
+     - Bruna da o pull, faz a próxima jogada e da o push
+     - E o fluxo foi assim até o Fábio dar o último push e o jogo dar velha
+   - Kaio começou o terceiro jogo contra o Luiz
+     - Kaio faz a primeira jogada e da o push
+     - Luiz da o pull, faz a próxima jogada e da o push
+     - E o fluxo foi assim até o Kaio dar o último push e ganhar o jogo
